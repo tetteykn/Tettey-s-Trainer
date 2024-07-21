@@ -5,11 +5,10 @@
 2. **Customizable Hotkey Combinations**: Use any combination of hotkeys without limitations, including combinations of more than four keys.  
 3. **Flexible Memory Management**: Configure the trainer for NOP memory bytes or code injection to dynamically obtain addresses. Customize hotkeys for any address according to your preferences.  
 4. **Comprehensive Teleport Menu**: Select a game folder containing specific game coordinates, save and load player positions with unlimited save slots, and manage saved locations in transferable and editable text files.  
-5. **Dynamic Hotkey Display**: The trainer dynamically displays hotkeys in both the GUI menu and the hack menu, adapting seamlessly to any game you choose.  
-6. **Address and Hotkey Descriptions**: Display hotkeys for addresses and their descriptions, providing clarity and ease of use.  
-7. **Flexible Hotkey Modes**: Set hotkeys to hold or toggle based on your requirements.  
-8. **Process Name Configuration**: Write the process name in a text file to use it seamlessly with the trainer.  
-9. **Automatic Address Updates**: The trainer automatically updates byte addresses when the game is updated, removing the need for manual updates.  
+5. **Dynamic Hotkey Display**: The trainer automatically displays your hotkeys and your addresses description in the GUI menu, adapting seamlessly to any game you choose.  
+6. **Flexible Hotkey Modes**: Set hotkeys to hold or toggle, address value type...etc based on your requirements.  
+7. **Process Name Configuration**: Write the process name in a text file to use it seamlessly with the trainer.  
+8. **Automatic Address Updates**: The trainer automatically updates byte addresses in the file when the game is updated, removing the need for manual updates, unless the bytes themselves have changed. 
 
 **Video link for tool usage:** https://youtu.be/YourVideo
 
