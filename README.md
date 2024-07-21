@@ -1,4 +1,4 @@
-Best Trainer in the world, can be used in any game, made by C++ fastest programing language for game hacking
+###Best Trainer in the world, can be used in any game, created with C++ fastest programing language for game hacking.
 Features:
 1-Code injection in memory bytes (Say goodbye to pointers addresses, the trainer dynamically obtain new address every game update)
 2-Ability to use any hotkeys combinations without limitation, you can even do more than +4 key combinations, and more.
