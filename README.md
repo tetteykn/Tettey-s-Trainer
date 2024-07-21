@@ -15,6 +15,6 @@
 
 **Note**: Users are required to find specific game cheats independently and configure them in the text file. To effectively locate the correct bytes for specific addresses in any game and to use the trainer proficiently, please refer to the instructional video that details the process of finding the opcodes for your addresses. 
 
-**Video link:** https://youtu.be/YourVideo
+**Video link demonstrating how to find your addresses Opcodes for code injection:** https://youtu.be/YourVideo
 
 #### This project represents over five months of dedicated effort. You can try it for free for 7 days, after which you will need to purchase the permanent version for $30. Currently, there is no website for this tool, but one will be available soon. In the meantime, please contact me personally if you are interested in making a purchase.
