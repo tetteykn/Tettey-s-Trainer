@@ -11,6 +11,8 @@
 8. **Process Name Configuration**: Write the process name in a text file to use it seamlessly with the trainer.  
 9. **Automatic Address Updates**: The trainer automatically updates byte addresses when the game is updated, removing the need for manual updates.  
 
+**Video link for tool usage:** https://youtu.be/YourVideo
+
 **Note**: Users are required to find specific game cheats independently and configure them in the text file. To effectively locate the correct bytes for specific addresses in any game and to use the trainer proficiently, please refer to the instructional video that details the process of finding the opcodes for your addresses. 
 
 **Video link:** https://youtu.be/YourVideo
