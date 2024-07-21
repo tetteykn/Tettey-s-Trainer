@@ -11,6 +11,6 @@
 8. **Process Name Configuration**: Write the process name in a text file to use it seamlessly with the trainer.  
 9. **Automatic Address Updates**: The trainer automatically updates byte addresses when the game is updated, removing the need for manual updates.  
 
-**Note**: Users are required to find specific game cheats independently and configure them in the text file. An instructional video will soon be available, demonstrating how to locate the correct bytes for specific addresses in any game and how to use the trainer effectively.
+**Note**: Users are required to find specific game cheats independently and configure them in the text file. To effectively locate the correct bytes for specific addresses in any game and to use the trainer proficiently, please refer to the instructional video that details the process of finding the opcodes for your addresses.
 
 This project represents over five months of dedicated effort. The application will be available for purchase at approximately $50 for a permanent version. Initially, a free 7-day trial will be offered. Additional information and a usage tutorial will be uploaded to YouTube soon.
