@@ -1,4 +1,4 @@
-### Introducing the Ultimate Game Trainer, a Versatile and High-Performance Tool for Game Hacking.
+# Introducing the Ultimate Game Trainer, a Versatile and High-Performance Tool for Game Hacking.
 ## Features:
 
 Dynamic Code Injection: Our trainer automatically injects code into memory bytes, eliminating the need for pointer addresses. It dynamically obtains new addresses with every game update.
