@@ -15,4 +15,4 @@
 
 **Video link:** https://youtu.be/YourVideo
 
-This project represents over five months of dedicated effort. The application will be available for purchase at approximately $50 for a permanent version. Initially, a free 7-day trial will be offered. Additional information and a usage tutorial will be uploaded to YouTube soon.
+This project represents over five months of dedicated effort. The application will be available for purchase at approximately $50 for a permanent version, with an initial free 7-day trial. Currently, there is no website for this tool, but one will be available soon. In the meantime, please contact me personally if you are interested in purchasing it.
