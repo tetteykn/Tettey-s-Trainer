@@ -22,11 +22,11 @@ First, please follow the [instructions](https://youtu.be/YourVideo) provided in 
 
 
 
-
-BytesOccurrences:
+## Other tools:
+1. **BytesOccurrences:**
 This tool is designed to analyze the frequency of specific byte sequences within a process's memory. It is particularly useful for identifying unique byte patterns in cases where Cheat Engine may fail with longer byte sequences.
 
-ReadAssemblyRegistry:
+2. **ReadAssemblyRegistry:**
 This tool assists in identifying an opcode that exclusively contains the player’s address. It is capable of reading the address accessed in a registry, which includes specific opcodes such as 'Rax', 'Rbx', 'Rbp', etc. This tool surpasses Cheat Engine in that it can read register operands without offsets, exemplified by:
 
 - GTA5.exe+55DDA8 - mov rcx,rbx
