@@ -16,11 +16,7 @@
 
 First, please follow the [instructions](https://youtu.be/YourVideo) provided in the accompanying video to guide you on how to use this tool.
 
-Second, for those who are new to this, we have provided a [guide](https://youtu.be/YourVideo) on how to utilize the BytesOccurrences and ReadAssemblyRegistry tools.
 
 
-
-
-**Video link demonstrating how to find your addresses Opcodes for code injection:** https://youtu.be/YourVideo
 
 #### This Tool represents over five months of dedicated effort and will continue to be enhanced over time. You can try it for free for 7 days, after which you will need to purchase the permanent version for $30. Currently, there is no website for this tool, but one will be available soon. In the meantime, please contact me personally if you are interested in making a purchase.
