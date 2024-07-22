@@ -10,7 +10,8 @@
 7. **Process Name Configuration**: Write the process name in a text file to use it seamlessly with the trainer.  
 8. **Automatic Address Updates**: The trainer automatically updates byte addresses in the file when the game is updated, removing the need for manual updates, unless the bytes themselves have changed. 
 
-**Usage:** https://youtu.be/YourVideo
+**Usage:**
+
 First, follow this [video]([URL](https://youtu.be/YourVideo)1) to guide you how to use this tool.
 Second, for beginners this is a [guide]([URL](https://youtu.be/YourVideo)2) how to use BytesOccurrences and ReadAssemblyRegistry tools.
 
