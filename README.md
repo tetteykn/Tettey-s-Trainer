@@ -34,5 +34,5 @@ This tool assists in identifying an opcode that exclusively contains the playerâ
 
 Conversely, Cheat Engineâ€™s debugger is limited to indirect memory reference registers, such as:
 
-- GTA5.exe+55DDD0 - 48 8B 07 - mov rax,[rdi]
-- GTA5.exe+55DDF8 - 48 8D 4E C8 - lea rcx,[rsi-38]
+- Process.exe+55DDD0 - 48 8B 07 - mov rax,[rdi]
+- Process.exe+55DDF8 - 48 8D 4E C8 - lea rcx,[rsi-38]
