@@ -17,6 +17,22 @@
 First, please follow the [instructions](https://youtu.be/YourVideo) provided in the accompanying video to guide you on how to use this tool.
 
 
-
-
 #### This Tool represents over five months of dedicated effort and will continue to be enhanced over time. You can try it for free for 7 days, after which you will need to purchase the permanent version for $30. Currently, there is no website for this tool, but one will be available soon. In the meantime, please contact me personally if you are interested in making a purchase.
+
+
+
+
+
+BytesOccurrences:
+This tool is designed to analyze the frequency of specific byte sequences within a process's memory. It is particularly useful for identifying unique byte patterns in cases where Cheat Engine may fail with longer byte sequences.
+
+ReadAssemblyRegistry:
+This tool assists in identifying an opcode that exclusively contains the player’s address. It is capable of reading the address accessed in a registry, which includes specific opcodes such as 'Rax', 'Rbx', 'Rbp', etc. This tool surpasses Cheat Engine in that it can read register operands without offsets, exemplified by:
+
+- GTA5.exe+55DDA8 - mov rcx,rbx
+- GTA5.exe+55DDCB - 83 FA FF - cmp edx,-01
+
+Conversely, Cheat Engine’s debugger is limited to indirect memory reference registers, such as:
+
+- GTA5.exe+55DDD0 - 48 8B 07 - mov rax,[rdi]
+- GTA5.exe+55DDF8 - 48 8D 4E C8 - lea rcx,[rsi-38]
