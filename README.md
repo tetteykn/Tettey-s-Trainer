@@ -29,8 +29,8 @@ This tool is designed to determine the frequency of repeated bytes sequences wit
 2. **ReadAssemblyRegistry:**
 This tool assists in identifying an opcode that exclusively contains the player’s address. It is capable of reading the address accessed in a registry, which includes specific opcodes such as 'Rax', 'Rbx', 'Rbp', etc. This tool surpasses [Cheat Engine](https://www.cheatengine.org/) in that it can read register operands without offsets, exemplified by:
 
-- GTA5.exe+55DDA8 - mov rcx,rbx
-- GTA5.exe+55DDCB - 83 FA FF - cmp edx,-01
+- Process.exe+55DDA8 - mov rcx,rbx
+- Process.exe+55DDCB - 83 FA FF - cmp edx,-01
 
 Conversely, Cheat Engine’s debugger is limited to indirect memory reference registers, such as:
 
