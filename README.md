@@ -10,7 +10,9 @@
 7. **Process Name Configuration**: Write the process name in a text file to use it seamlessly with the trainer.  
 8. **Automatic Address Updates**: The trainer automatically updates byte addresses in the file when the game is updated, removing the need for manual updates, unless the bytes themselves have changed. 
 
-**Video link for tool usage:** https://youtu.be/YourVideo
+**Usage:** https://youtu.be/YourVideo
+First, follow this [video]([URL](https://youtu.be/YourVideo)1) to guide you how to use this tool.
+Second, for beginners this is a [guide]([URL](https://youtu.be/YourVideo)2) how to use BytesOccurrences and ReadAssemblyRegistry tools.
 
 **Note**: Users are required to find specific game cheats independently and configure them in the text file. To effectively locate the correct bytes for specific addresses in any game and to use the trainer proficiently, please refer to the instructional video that details the process of finding the opcodes for your addresses. 
 
