@@ -37,3 +37,10 @@ Conversely, Cheat Engine’s debugger is limited to indirect memory reference re
 
 - Process.exe+55DDD0 - 48 8B 07 - mov rax,[rdi]
 - Process.exe+55DDF8 - 48 8D 4E C8 - lea rcx,[rsi-38]
+
+
+
+## Usage Policies:
+1.**Prohibition of Use in Online Games:** The use of this trainer in online games is strictly prohibited. I bear no responsibility for any individual who employs it in online games.
+
+2.**Strict Prohibition of Tampering:** Any attempt to tamper with, steal, or infringe upon this tool in any manner is strictly forbidden.
