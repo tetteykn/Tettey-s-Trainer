@@ -27,7 +27,7 @@ First, please follow the instructions provided in the accompanying [video to gui
 ## Other tools:
 1. **BytesOccurrences:**
 This tool is designed to determine the frequency of repeated bytes sequences within a process's memory. It is particularly useful for identifying unique bytes patterns in cases where [Cheat Engine](https://www.cheatengine.org/) may fail with longer byte sequences.
-This tool might be required for our specific trainer because if you use Cheat Engine uses different method.
+This tool might be required for our specific trainer because Cheat Engine uses different method.
 
 **Example:**
 - Process.exe+55DDD0 - 50 8B 07 - mov rax,[rdi]
