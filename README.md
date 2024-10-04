@@ -43,10 +43,9 @@ If you inject at 'Process.exe+55DDF8' with [Cheat Engine](https://www.cheatengin
   
 If you want to inject at 'Process.exe+55DDF8' then you must generate unique bytes starts from '48' so you gonna use '48 8D 4E C8 83 FA' as you see its oky to add the bytes of the next address.
 
+---------
 
-
-
-3. **ReadAssemblyRegistry:**
+2. **ReadAssemblyRegistry:**
 This [tool](https://www.mediafire.com/file/udpjcyp3g6jjjez/ReadAssemblyRegistry.exe/file) assists in identifying an opcode that exclusively contains the player’s address. It is capable of reading the address accessed in a registry, which includes specific opcodes such as 'Rax', 'Rbx', 'Rbp', etc. This tool surpasses [Cheat Engine](https://www.cheatengine.org/) in that it can directly debug register operands without offsets, exemplified by:
 
 
