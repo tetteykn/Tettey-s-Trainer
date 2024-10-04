@@ -55,7 +55,7 @@ This [tool](https://www.mediafire.com/file/udpjcyp3g6jjjez/ReadAssemblyRegistry.
 - Process.exe+55DDA8 - mov rcx,rbx
 - Process.exe+55DDCB - 83 FA FF - cmp edx,-01
 
-Conversely, Cheat Engine’s debugger is limited to indirect memory reference registers, such as:
+Conversely, Cheat Engine’s debugger is limited to indirect memory reference registers, such as:(Cheat Engine can read operands without offsets but it requires injection)
 
 - Process.exe+55DDD0 - 50 8B 07 - mov rax,[rdi]
 - Process.exe+55DDF8 - 48 8D 4E C8 - lea rcx,[rsi-38]
