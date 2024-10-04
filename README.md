@@ -14,6 +14,8 @@
 
 **Note**: I'll add more games cheat tables in future, also don't hasitate to create your owen cheat for games using Cheat Engine and share the cheat table with us (Make sure you provide the game version).
 
+---
+
 ## Usage:
 
 First, please follow the instructions provided in the accompanying [video to guide](https://youtu.be/RpzsigSjH3s) you on how to use this tool. Additionally, join my [Discord server](https://discord.com/invite/jRnaeTJ) where you can ask any questions you may have about it.
