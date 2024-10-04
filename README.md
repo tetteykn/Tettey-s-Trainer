@@ -40,6 +40,7 @@ If you inject at 'Process.exe+55DDF8' with Cheat Engine it might generate you th
 - Process.exe+55DDD0 - 48 8B 07 - mov rax,[rdi]
 - Process.exe+55DDF8 - 48 8D 4E C8 - lea rcx,[rsi-38]
 - Process.exe+55DDCB - 83 FA FF - cmp edx,-01
+  
 - If you want to inject at 'Process.exe+55DDF8' then you must generate unique bytes starts from '48' so you gonna use '48 8D 4E C8 83 FA' as you see its oky to add the bytes of the next address.
 
 3. **ReadAssemblyRegistry:**
