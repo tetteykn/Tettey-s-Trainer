@@ -49,13 +49,13 @@ If you want to inject at 'Process.exe+55DDF8' then you must generate unique byte
 
 
 2. **ReadAssemblyRegistry:**
-This [tool](https://www.mediafire.com/file/udpjcyp3g6jjjez/ReadAssemblyRegistry.exe/file) assists in identifying an opcode that exclusively contains the player’s address. It is capable of reading the address accessed in a registry, which includes specific opcodes such as 'Rax', 'Rbx', 'Rbp', etc. This tool surpasses [Cheat Engine](https://www.cheatengine.org/) in that it can directly debug register operands without offsets, exemplified by:
+This [tool](https://www.mediafire.com/file/udpjcyp3g6jjjez/ReadAssemblyRegistry.exe/file) assists in identifying an opcode that exclusively contains the player’s address. It is capable of reading the address accessed in a registry, which includes specific opcodes such as 'rcx', 'rbx', 'edx' of the below instructions. This tool surpasses [Cheat Engine](https://www.cheatengine.org/) in that it can directly debug these registeries operands without offsets, exemplified by:
 
 
 - Process.exe+55DDA8 - mov rcx,rbx
 - Process.exe+55DDCB - 83 FA FF - cmp edx,-01
 
-Conversely, Cheat Engine’s debugger is limited to indirect memory reference registers, such as:(Cheat Engine can read operands without offsets but it requires injection)
+Conversely, Cheat Engine’s debugger is limited to indirect memory reference registers, such as: (Cheat Engine can read operands without offsets but it requires injection)
 
 - Process.exe+55DDD0 - 50 8B 07 - mov rax,[rdi]
 - Process.exe+55DDF8 - 48 8D 4E C8 - lea rcx,[rsi-38]
