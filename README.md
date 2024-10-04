@@ -12,7 +12,7 @@
 
 **Note**: Users are required to find specific game cheats independently and configure them in the text file or use 'Games tables files' for some games i made. To effectively locate the correct bytes for specific addresses in any game and to use the trainer proficiently, please refer to the instructional video that details the process of finding the opcodes for your addresses. 
 
-**Note**: I'll add more games cheat tables in future, also don't hasitate to create your owen cheat for games using Cheat Engine and share the cheat table with us (Make sure you provide the game version).
+**Note**: I'll add more games cheat tables in future, also don't hasitate to create your owen cheat for games using [Cheat Engine](https://www.cheatengine.org/) and share the cheat table with us (Make sure you provide the game version).
 
 ---
 
