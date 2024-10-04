@@ -18,7 +18,7 @@
 
 ## Usage:
 
-First, please follow the instructions provided in the accompanying [video to guide](https://youtu.be/RpzsigSjH3s) you on how to use this tool. Additionally, join my [Discord server](https://discord.com/invite/jRnaeTJ) where you can ask any questions you may have about it.
+First, please follow the instructions provided in the accompanying [video to guide](https://youtu.be/km12syrbTpE) you on how to use this tool. Additionally, join my [Discord server](https://discord.com/invite/jRnaeTJ) where you can ask any questions you may have about it.
 
 ---
 
