@@ -29,19 +29,19 @@ First, please follow the instructions provided in the accompanying [video to gui
 This tool is designed to determine the frequency of repeated bytes sequences within a process's memory. It is particularly useful for identifying unique bytes patterns in cases where [Cheat Engine](https://www.cheatengine.org/) may fail with longer byte sequences.
 This tool might be required for our specific trainer because [Cheat Engine](https://www.cheatengine.org/) uses different method.
 
-**Example:**
+**Example Cheat Engine:**
 - Process.exe+55DDD0 - 50 8B 07 - mov rax,[rdi]
 - Process.exe+55DDF8 - 48 8D 4E C8 - lea rcx,[rsi-38]
 - Process.exe+55DDCB - 83 FA FF - cmp edx,-01
 
 If you inject at 'Process.exe+55DDF8' with [Cheat Engine](https://www.cheatengine.org/) it might generate you this bytes to make it unique: '07 48 8D 4E C8' Do you see it starts with the byte '07' which is the byte of the above address, this will not work with my trainer, for my trainer you must generate unique bytes that starts from the bytes of your target address.
 
-**Example:**
+**Example MyTrainer:**
 - Process.exe+55DDD0 - 50 8B 07 - mov rax,[rdi]
 - Process.exe+55DDF8 - 48 8D 4E C8 - lea rcx,[rsi-38]
 - Process.exe+55DDCB - 83 FA FF - cmp edx,-01
   
-- If you want to inject at 'Process.exe+55DDF8' then you must generate unique bytes starts from '48' so you gonna use '48 8D 4E C8 83 FA' as you see its oky to add the bytes of the next address.
+If you want to inject at 'Process.exe+55DDF8' then you must generate unique bytes starts from '48' so you gonna use '48 8D 4E C8 83 FA' as you see its oky to add the bytes of the next address.
 
 3. **ReadAssemblyRegistry:**
 This [tool](https://www.mediafire.com/file/udpjcyp3g6jjjez/ReadAssemblyRegistry.exe/file) assists in identifying an opcode that exclusively contains the player’s address. It is capable of reading the address accessed in a registry, which includes specific opcodes such as 'Rax', 'Rbx', 'Rbp', etc. This tool surpasses [Cheat Engine](https://www.cheatengine.org/) in that it can directly debug register operands without offsets, exemplified by:
