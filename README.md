@@ -30,14 +30,14 @@ This tool is designed to determine the frequency of repeated bytes sequences wit
 This tool might be required for our specific trainer because if you use Cheat Engine uses different method.
 
 **Example:**
-- Process.exe+55DDD0 - 48 8B 07 - mov rax,[rdi]
+- Process.exe+55DDD0 - 50 8B 07 - mov rax,[rdi]
 - Process.exe+55DDF8 - 48 8D 4E C8 - lea rcx,[rsi-38]
 - Process.exe+55DDCB - 83 FA FF - cmp edx,-01
 
 If you inject at 'Process.exe+55DDF8' with Cheat Engine it might generate you this bytes to make it unique: '07 48 8D 4E C8' Do you see it starts with the byte '07' which is the byte of the above address, this will not work with my trainer, for my trainer you must generate unique bytes that starts from the bytes of your target address.
 
 **Example:**
-- Process.exe+55DDD0 - 48 8B 07 - mov rax,[rdi]
+- Process.exe+55DDD0 - 50 8B 07 - mov rax,[rdi]
 - Process.exe+55DDF8 - 48 8D 4E C8 - lea rcx,[rsi-38]
 - Process.exe+55DDCB - 83 FA FF - cmp edx,-01
   
@@ -52,7 +52,7 @@ This [tool](https://www.mediafire.com/file/udpjcyp3g6jjjez/ReadAssemblyRegistry.
 
 Conversely, Cheat Engine’s debugger is limited to indirect memory reference registers, such as:
 
-- Process.exe+55DDD0 - 48 8B 07 - mov rax,[rdi]
+- Process.exe+55DDD0 - 50 8B 07 - mov rax,[rdi]
 - Process.exe+55DDF8 - 48 8D 4E C8 - lea rcx,[rsi-38]
 
 
