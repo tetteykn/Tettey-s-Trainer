@@ -22,7 +22,7 @@ First, please follow the instructions provided in the accompanying [video to gui
 #### This Tool represents over five months of dedicated effort and will continue to be enhanced over time. You can try it for free for 7 days, after which you will need to purchase the permanent version for $30. Currently, there is no website for this tool, but one will be available soon. In the meantime, please contact me personally if you are interested in making a purchase.
 
 
-
+---
 
 ## Other tools:
 1. **BytesOccurrences:**
@@ -43,7 +43,6 @@ If you inject at 'Process.exe+55DDF8' with [Cheat Engine](https://www.cheatengin
   
 If you want to inject at 'Process.exe+55DDF8' then you must generate unique bytes starts from '48' so you gonna use '48 8D 4E C8 83 FA' as you see its oky to add the bytes of the next address.
 
----
 
 2. **ReadAssemblyRegistry:**
 This [tool](https://www.mediafire.com/file/udpjcyp3g6jjjez/ReadAssemblyRegistry.exe/file) assists in identifying an opcode that exclusively contains the player’s address. It is capable of reading the address accessed in a registry, which includes specific opcodes such as 'Rax', 'Rbx', 'Rbp', etc. This tool surpasses [Cheat Engine](https://www.cheatengine.org/) in that it can directly debug register operands without offsets, exemplified by:
@@ -57,7 +56,7 @@ Conversely, Cheat Engine’s debugger is limited to indirect memory reference re
 - Process.exe+55DDD0 - 50 8B 07 - mov rax,[rdi]
 - Process.exe+55DDF8 - 48 8D 4E C8 - lea rcx,[rsi-38]
 
-
+---
 
 ## Usage Policies:
 1.**Prohibition of Use in Online Games:** The use of this trainer in online games is strictly prohibited. I bear no responsibility for any individual who employs it in online games.
