@@ -27,14 +27,14 @@ First, please follow the instructions provided in the accompanying [video to gui
 ## Other tools:
 1. **BytesOccurrences:**
 This tool is designed to determine the frequency of repeated bytes sequences within a process's memory. It is particularly useful for identifying unique bytes patterns in cases where [Cheat Engine](https://www.cheatengine.org/) may fail with longer byte sequences.
-This tool might be required for our specific trainer because [Cheat Engine](https://www.cheatengine.org/)  Engine uses different method.
+This tool might be required for our specific trainer because [Cheat Engine](https://www.cheatengine.org/) uses different method.
 
 **Example:**
 - Process.exe+55DDD0 - 50 8B 07 - mov rax,[rdi]
 - Process.exe+55DDF8 - 48 8D 4E C8 - lea rcx,[rsi-38]
 - Process.exe+55DDCB - 83 FA FF - cmp edx,-01
 
-If you inject at 'Process.exe+55DDF8' with Cheat Engine it might generate you this bytes to make it unique: '07 48 8D 4E C8' Do you see it starts with the byte '07' which is the byte of the above address, this will not work with my trainer, for my trainer you must generate unique bytes that starts from the bytes of your target address.
+If you inject at 'Process.exe+55DDF8' with [Cheat Engine](https://www.cheatengine.org/) it might generate you this bytes to make it unique: '07 48 8D 4E C8' Do you see it starts with the byte '07' which is the byte of the above address, this will not work with my trainer, for my trainer you must generate unique bytes that starts from the bytes of your target address.
 
 **Example:**
 - Process.exe+55DDD0 - 50 8B 07 - mov rax,[rdi]
