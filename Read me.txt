@@ -1,0 +1,25 @@
+You can use 'Games tables files' for every game without the need for you
+to find the game cheat by your self, you can simply copy 'Process_info.in'
+to 'Documents\Tettey_trainer\'
+
+You can also copy it along with the folder if the game has saved locations
+or you can create the folder for your game there.
+You can select the folders in Teleport menu.
+And inside that folder you can create 'ini' files. Check the example of
+Bully Scholarship table cheat.
+--------------------
+Useful tools:
+'BytesOccurrences_x64.exe': This tool allows you to search for specific bytes in process to make unique bytes..
+To use this tool check 'BytesOccurences.ini' to set your process name and your bytes.
+--------------------
+This tool is not free so you will get 7 days to try it, if you want to buy it contact me personally, i'll
+create website for it if people start buying it.
+--------------------
+Join us in discord: https://discord.com/invite/jRnaeTJ
+My Youtube channel: https://www.youtube.com/channel/UCksGhlnuOhirbMzMG3yYJmg
+Find this tool in my Github: https://github.com/tetteykn/Tettey-s-Trainer
+--------------------
+Note: Make exception for this entire folder because some Anti-Viruse thinks all apps
+that uses byte search as a virus if your Anti-Virus is oky with it then don't bother.
+--------------------
+Please share with us any games cheat table you create thank you.
