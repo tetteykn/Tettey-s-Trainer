@@ -23,3 +23,29 @@ Note: Make exception for this entire folder because some Anti-Viruse thinks all 
 that uses byte search as a virus if your Anti-Virus is oky with it then don't bother.
 --------------------
 Please share with us any games cheat table you create thank you.
+
+-----------------------------------------------------------------------------------------------------------------------
+Quick info about 'Process_info.ini' file and trainer mechanism:
+
+Note: When there is a game update, there is a chance that the bytes will change, so if that happens, you will need to update the bytes.
+
+Some games bytes never change or some Opcodes never change depending on the game.
+
+You can make 'search_bytes' as unique as you wish, but make sure the bytes start from your target instruction bytes.
+
+'Original_bytes' represent your target instruction bytes that you want to NOP.
+
+You can change the sections name '[Fly Hack]' ...etc, only don't change the section '[Process Info]', '[Actual Coordinates]', '[Visual Coordinates]'.
+
+Do no add space or any text before or after the sections for example '[Process Info]' So there must be no space or any text.
+
+You can customize your desired hotkeys and the mode to Hold or Toggle.
+
+Set 'Offset1_DisplayInGUI' True to display in GUI, False to hide, do the same for all the offsets.
+
+Virtual-Key-Codes: https://learn.microsoft.com/en-us/windows/win32/inputdev/virtual-key-codes
+
+
+
+
+
