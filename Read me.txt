@@ -23,8 +23,8 @@ Find this tool in my Github: https://github.com/tetteykn/Tettey-s-Trainer
 Note: Make exception for this entire folder because some Anti-Viruse thinks all apps
 that uses byte search as a virus if your Anti-Virus is oky with it then don't bother.
 --------------------
-Please share with us any games cheat table you create thank you.
-
+I am going to add any cheat table for every game i create hack for it. Please share with us any games cheat table you create thank you.
+If you have cheat table want to share upload it in our discord
 -----------------------------------------------------------------------------------------------------------------------
 Quick info about 'Process_info.ini' file and trainer mechanism:
 
