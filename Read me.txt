@@ -11,6 +11,7 @@ Bully Scholarship table cheat.
 Useful tools:
 'BytesOccurrences_x64.exe': This tool allows you to search for specific bytes in process to make unique bytes..
 To use this tool check 'BytesOccurences.ini' to set your process name and your bytes.
+Use 'BytesOccurrences_x64.exe' if your process is x64 and use 'BytesOccurrences_x32.exe' if your process is x32
 --------------------
 This tool is not free so you will get 7 days to try it, if you want to buy it contact me personally, i'll
 create website for it if people start buying it.
